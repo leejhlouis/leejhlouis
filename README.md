@@ -1,15 +1,9 @@
 # Hey👋, it's Louis "leejhlouis", software engineer at Traveloka
-Ex-Blibli
-
-Read more on [my personal website](https://louisite.netlify.app/)
+Read more on [louisite.com](https://louisite.com/)
 
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:louis.gustavo@binus.ac.id)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-gustavo)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/leejhlouis)
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=leejhlouis&theme=tokyonight&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejhlouis&layout=compact&theme=tokyonight&langs_count=8)
 
 ## Skills
 Here are some technologies that I am familiar with:
